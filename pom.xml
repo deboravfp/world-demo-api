@@ -38,7 +38,7 @@
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimezone-service</applicationName>
+						<applicationName>worldtimezoneffff-system</applicationName>
 						<password>2112Mul*</password>
 						<muleVersion>4.4.0</muleVersion>
 					</cloudHubDeployment>
