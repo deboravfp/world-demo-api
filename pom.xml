@@ -39,7 +39,7 @@
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>worldtimezone-service</applicationName>
-						<senha>2112Mul*</senha>
+						<password>2112Mul*</password>
 						<muleVersion>4.4.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
